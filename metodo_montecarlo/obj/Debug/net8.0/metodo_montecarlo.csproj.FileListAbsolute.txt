@@ -1,0 +1,14 @@
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\bin\Debug\net8.0\metodo_montecarlo.exe
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\bin\Debug\net8.0\metodo_montecarlo.deps.json
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\bin\Debug\net8.0\metodo_montecarlo.runtimeconfig.json
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\bin\Debug\net8.0\metodo_montecarlo.dll
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\bin\Debug\net8.0\metodo_montecarlo.pdb
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.AssemblyInfoInputs.cache
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.AssemblyInfo.cs
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.csproj.CoreCompileInputs.cache
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.dll
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\refint\metodo_montecarlo.dll
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.pdb
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\metodo_montecarlo.genruntimeconfig.cache
+C:\Users\LORENZO RAMIREZ\source\repos\metodo_montecarlo\metodo_montecarlo\obj\Debug\net8.0\ref\metodo_montecarlo.dll
